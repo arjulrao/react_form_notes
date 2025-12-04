@@ -151,8 +151,6 @@ const { register, handleSubmit } = useForm();
 
 ## 📝 8. Main Issue Form Handling Solves
 
-From the original README:
-
 * Normal forms reload the page → Not good for React.
 * React solutions prevent reload and allow full control over form values.
 
